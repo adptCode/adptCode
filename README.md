@@ -7,7 +7,7 @@ Passionate about building scalable and maintainable web applications. Currently 
 ![Profile Views](https://komarev.com/ghpvc/?username=adptcode&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🌍 About Me
-- 🌱 I’m currently learning **Angular Material, PrimeNG, TailwindCSS**
+- 🌱 I’m currently learning **Test-Driven Development, CI/CD, Feature Flags**
 - 👨‍💻 Check out my portfolio: **[alessandrodpt.netlify.app](https://alessandrodpt.netlify.app/)** 🚀
 - 💬 Ask me about **Angular, TypeScript, JavaScript**
 - 📫 Reach me at **adepietri.it@gmail.com**
